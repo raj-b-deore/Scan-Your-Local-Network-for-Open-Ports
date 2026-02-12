@@ -17,7 +17,7 @@ This project demonstrates how to perform network reconnaissance by scanning a ta
 ## Tools Used
 - Nmap (Network Mapper)
 - Wireshark (optional packet capture)
-- Operating System: Windows / Linux
+- Operating System: Windows 11
 
 ---
 
