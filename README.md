@@ -30,6 +30,7 @@ This project demonstrates how to perform network reconnaissance by scanning a ta
 ## Commands Used
 
 Basic SYN Scan: nmap -sS 10.170.191.101
+
 Service Version Detection: nmap -sS -sV 10.170.191.101
 
 Save Scan Output: nmap -sS -sV 10.170.191.101 -oN scan_results.txt
