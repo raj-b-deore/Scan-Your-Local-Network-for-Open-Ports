@@ -71,9 +71,13 @@ Save Scan Output: nmap -sS -sV 10.170.191.101 -oN scan_results.txt
 ## Project Structure
 Network-Port-Scan-Project
 │
+
 ├── README.md
+
 ├── scan_results.txt
+
 ├── report.pdf
+
 └── screenshots/
 
 ---
